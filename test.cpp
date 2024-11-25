@@ -3,6 +3,6 @@ using namespace std;
 
 int main() {
   int n;
-  cout << "Enter the number of elements: ";
+  cout <<"我们仨太强了！";
   cin >> n;
 }
